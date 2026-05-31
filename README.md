@@ -1,1 +1,1 @@
-# hackthebox-writeups-
+# hackthebox-writeups
