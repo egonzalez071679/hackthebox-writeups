@@ -1,4 +1,4 @@
-# Structure of InfoSec — HTB Academy
+# Introduction to Information Security — HTB Academy
 
 > **Path:** Junior Cybersecurity Analyst - CJCA CERTIFICATION PATH  
 > **Difficulty:** Fundamental  
