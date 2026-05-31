@@ -4,7 +4,7 @@
 > **Difficulty:** Fundamental  
 > **Category:** Introduction to Information Security  
 > **Completed:** 2026-05-31  
-> **Module Link:** (https://academy.hackthebox.com/app/module/293)
+> **Module Link:** https://academy.hackthebox.com/app/module/293
 
 ---
 
